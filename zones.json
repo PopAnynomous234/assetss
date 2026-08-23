@@ -7647,5 +7647,126 @@
     "special": [
       "flash"
     ]
+  },
+  {
+    "id": 846,
+    "name": "One Shot: World Machine edition",
+    "cover": "{COVER_URL}/846.png",
+    "url": "{HTML_URL}/846.html",  
+    "author": "Future Cat LLC, shxyder",
+    "authorLink": "https://store.steampowered.com/app/420530/OneShot/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 847,
+    "name": "PEAK",
+    "cover": "{COVER_URL}/847.png",
+    "url": "{HTML_URL}/847.html",  
+    "author": "Aggro Crab, dasher",
+    "authorLink": "https://store.steampowered.com/app/3527290/PEAK/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 848,
+    "name": "ClusterTruck",
+    "cover": "{COVER_URL}/848.png",
+    "url": "{HTML_URL}/848.html",  
+    "author": "Landfall, NotRexed",
+    "authorLink": "https://store.steampowered.com/app/397950/Clustertruck/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 849,
+    "name": "Azahar (Emulator)",
+    "cover": "{COVER_URL}/849.png",
+    "url": "{HTML_URL}/849.html",  
+    "author": "Azahar Contributors, Sexyplankton",
+    "authorLink": "https://github.com/azahar-emu/azahar",
+    "special": [
+    "emulator"
+    ]
+  },
+  {
+    "id": 850,
+    "name": "Lobotomy Corporation",
+    "cover": "{COVER_URL}/850.png",
+    "url": "{HTML_URL}/850.html",  
+    "author": "Project Moon, reeyuki",
+    "authorLink": "https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 851,
+    "name": "Grand Theft Auto 3",
+    "cover": "{COVER_URL}/851.png",
+    "url": "{HTML_URL}/851.html",  
+    "author": "Rockstar Games, shxyder",
+    "authorLink": "https://store.steampowered.com/app/1546970/Grand_Theft_Auto_III__The_Definitive_Edition/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 852,
+    "name": "Granny 3",
+    "cover": "{COVER_URL}/852.png",
+    "url": "{HTML_URL}/852.html",  
+    "author": "DVLoper, crax",
+    "authorLink": "https://store.steampowered.com/app/1707550/Granny_3/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 853,
+    "name": "SCP: Containment Breach",
+    "cover": "{COVER_URL}/853.png",
+    "url": "{HTML_URL}/853.html",  
+    "author": "Undertow Games, q8j",
+    "authorLink": "https://store.steampowered.com/app/2178380/SCP__Containment_Breach/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 854,
+    "name": "Ravenfield",
+    "cover": "{COVER_URL}/854.png",
+    "url": "{HTML_URL}/854.html",  
+    "author": "SteelRaven7, gurtmuncher",
+    "authorLink": "https://store.steampowered.com/app/636480/Ravenfield/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 855,
+    "name": "Trombone Champion",
+    "cover": "{COVER_URL}/855.png",
+    "url": "{HTML_URL}/855.html",  
+    "author": "Holy Wow Studios, gurtmuncher",
+    "authorLink": "https://store.steampowered.com/app/1059990/Trombone_Champ/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 856,
+    "name": "PikuNiku",
+    "cover": "{COVER_URL}/856.png",
+    "url": "{HTML_URL}/856.html",  
+    "author": "Arnaud De Bock, Remi Forcadell, and bog",
+    "authorLink": "https://store.steampowered.com/app/572890/Pikuniku/",
+    "special": [
+      "port"
+    ]
   }
 ]
