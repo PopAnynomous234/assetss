@@ -7689,7 +7689,8 @@
     "author": "Azahar Contributors, Sexyplankton",
     "authorLink": "https://github.com/azahar-emu/azahar",
     "special": [
-    "emulator"
+    "emulator", 
+    "tools"
     ]
   },
   {
@@ -7765,6 +7766,28 @@
     "url": "{HTML_URL}/856.html",  
     "author": "Arnaud De Bock, Remi Forcadell, and bog",
     "authorLink": "https://store.steampowered.com/app/572890/Pikuniku/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 857,
+    "name": "Inscryption",
+    "cover": "{COVER_URL}/857.png",
+    "url": "{HTML_URL}/857.html",  
+    "author": "Daniel Mullins, Reeyuki",
+    "authorLink": "https://store.steampowered.com/app/1092790/Inscryption/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 858,
+    "name": "Inscryption",
+    "cover": "{COVER_URL}/858.png",
+    "url": "{HTML_URL}/858.html",  
+    "author": "Robot Gentleman",
+    "authorLink": "https://store.steampowered.com/app/368360/60_Seconds/",
     "special": [
       "port"
     ]
