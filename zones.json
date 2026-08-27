@@ -7785,5 +7785,17 @@
       "port"
     ],
     "featured": true
+  },
+  {
+    "id": 859,
+    "name": "JoJo's Bizarre Adventure: Heritage for the Future",
+    "cover": "{COVER_URL}/859.png",
+    "url": "{HTML_URL}/859.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.capcom.com/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
   }
 ]
