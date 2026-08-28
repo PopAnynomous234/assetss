@@ -7797,5 +7797,13 @@
       "emulator",
       "psx"
     ]
+  },
+  {
+    "id": 860,
+    "name": "Endacopia",
+    "cover": "{COVER_URL}/860.png",
+    "url": "{HTML_URL}/860.html",  
+    "author": "andyl4nd",
+    "authorLink": "https://andyl4nd.itch.io/endacopiademo"
   }
 ]
